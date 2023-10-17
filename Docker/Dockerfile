@@ -1,5 +1,8 @@
 FROM deepnote/python:3.10
 
+# Python version
+ARG PYTHON_VERSION="3.10.12"
+
 # Install base utilities
 RUN apt-get update \
     && apt-get install -y build-essential \
@@ -15,6 +18,9 @@ RUN wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -
 # Adding conda to Path and update
 ENV PATH=$CONDA_DIR/bin:$PATH
 RUN conda update conda
+
+# Change python version
+RUN conda install python=$PYTHON_VERSION
 
 # Adding conda channels
 RUN conda config --add channels conda-forge
