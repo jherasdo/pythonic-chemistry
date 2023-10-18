@@ -6,7 +6,11 @@ Add a cool intro here!
 
 1. [Introduction to Basic Python]()
 2. [Intermediate Python]()
-
+3. [Data Analysis in Python]()
+4. [Data Visualization in Python]()
+5. [Modeling Chemical Systems]()
+6. [Machine Learning on Chemical Data]()
+7. [Implementing Bures method for Chemical Kinetics]()
 
 
 ## Acknowledgements
