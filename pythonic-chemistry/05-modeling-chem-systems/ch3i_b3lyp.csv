@@ -1,0 +1,21 @@
+Nu,Nu_smi,Prod_smi,DG_kcal,DG_eV
+F,[F-],CF,-16.64,-0.72
+Cl,[Cl-],CCl,-5.32,-0.23
+Br,[Br-],CBr,-11.12,-0.48
+I,[I-],CI,0,0
+OH,[OH-],CO,-36.52,-1.58
+OMe,C[O-],COC,-43.13,-1.87
+SH,[SH-],CS,-31.38,-1.36
+CF3,[C-](F)(F)(F),CC(F)(F)F,-74.4,-3.23
+CN,N#[C-],CC#N,-47.71,-2.07
+SMe,C[S-],CSC,-42.47,-1.84
+OEt,CC[O-],COCC,-43.36,-1.88
+NH2,[NH2-],CN,-71.74,-3.11
+N(CH3)3,CC(C)(C)[NH-],CCNC(C)(C),-31.23,-1.35
+C6H5,c1ccc[c-]c1,Cc1ccccc1,-92.06,-3.99
+NHCHO,O=C[NH-],O=CNC,-45.91,-1.99
+Ts,CC1=CC=C(C=C1)S(=O)(=O)[O-],CC1=CC=C(C=C1)S(=O)(=O)OC,-1.84,-0.08
+SEt,CC[S-],CCSC,-42.2,-1.83
+OOH,O[O-],OOC,-34.96,-1.52
+PH2,[PH2-],PC,-53.99,-2.34
+HOOCH ,O=C[O-],O=COC,-24.15,-1.05
