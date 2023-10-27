@@ -1,4 +1,4 @@
-<h1 align="center"><img src="images/logo.png" width="150", height="150"/> <br/> Pythonic Chemistry: From Basic Python to Advanced Applications for Chemistry</h1>
+<h1 align="center"><img src="images/logo.png" width="250", height="250"/> <br/> Pythonic Chemistry: From Basic Python to Advanced Applications for Chemistry</h1>
 
 Add a cool intro here!
 
