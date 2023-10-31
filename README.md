@@ -5,7 +5,8 @@ Welcome to the exciting journey where chemistry meets Python! We proudly present
 Pythonic Chemistry is meticulously crafted for chemists ready to intertwine the elegance of chemical experiments with the dynamic capabilities of Python. 
 Whether it’s automating intricate lab data analysis, crafting cool visualizations or simulating experimental results, we’ve got you covered!
 
-Dive in, and let’s script the next chapter in chemical innovation together!</div>
+Dive in, and let’s script the next chapter in chemical innovation together!
+</div>
 
 ## Table of Content
 
