@@ -22,6 +22,7 @@ RUN mamba install --quiet --yes \
     'xtb' \
     'xtb-python' \
     'rdkit' \
+    'jupyter-jsmol' \
     'autode' \
     'scikit-learn' && \
     mamba clean --all -f -y
