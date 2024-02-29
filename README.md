@@ -18,7 +18,9 @@ Dive in, and let’s script the next chapter in chemical innovation together!
 
 
 ## Acknowledgements
-This work was supported by ...
+The authors thank the Institute of Chemical Research of Catalonia (ICIQ) and the SHARP program and specifically to Prof. Núria López for her support in creating `Pythonic Chemistry`. 
+The authors also thank the first group of students for their willingness to learn Python and their feedback to improve our course. 
+Finally, the authors also thank Deepnote for help and support to integrate the course to their platform.
 
 ## License
 `Pythonic Chemistry` course is released under the [MIT](https://github.com/jherasdo/pythonic-chemistry/blob/main/LICENSE) license.
