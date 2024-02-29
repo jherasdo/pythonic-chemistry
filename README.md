@@ -28,15 +28,12 @@ This work was supported by ...
 If you ise this codebase in your work, please consider citing:
 
 ```bibtex
-@article{citation_name,
-    title = {},
-    author = {},
+@article{pythonic_chemistry,
+    title = {Pythonic Chemistry: The Beginner's Guide to Digital Chemistry},
+    author = {Javier Heras-Domingo and Diego Garay-Ruiz},
     journal = {},
-    year = {},
+    year = {2024},
     doi = {},
 }
 ```
-
-## References
-
 
