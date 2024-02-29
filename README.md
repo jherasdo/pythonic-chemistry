@@ -1,12 +1,17 @@
-<h1 align="center">Pythonic Chemistry: The Beginner's Guide to Digital Chemistry<br/><img src="images/logo.png" width="250", height="250"/></h1>
+<div align="center">
+
+<h1 align="center">Pythonic Chemistry: The Beginner's Guide to Digital Chemistry<br/>
+<img src="images/logo.png" width="250", height="250"/><br/>
+<a href="https://hub.docker.com/r/jherasdo/pythonic-chemistry"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+</h1>
+
+</div>
 
 Welcome to the exciting journey where chemistry meets Python! We proudly present the very first course of this kind at the Institute of Chemical Research of Catalonia (ICIQ). 
 Pythonic Chemistry is meticulously crafted for chemists ready to intertwine the elegance of chemical experiments with the dynamic capabilities of Python. 
 Whether it’s automating intricate lab data analysis, crafting cool visualizations or simulating experimental results, we’ve got you covered!
 
 Dive in, and let’s script the next chapter in chemical innovation together!
-
-<a href="https://hub.docker.com/r/jherasdo/pythonic-chemistry"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
 
 ## Table of Content
 
