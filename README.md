@@ -6,6 +6,8 @@ Whether it’s automating intricate lab data analysis, crafting cool visualizati
 
 Dive in, and let’s script the next chapter in chemical innovation together!
 
+<a href="https://hub.docker.com/r/jherasdo/pythonic-chemistry"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+
 ## Table of Content
 
 1. [Introduction to Basic Python](https://github.com/jherasdo/pythonic-chemistry/tree/main/pythonic-chemistry/01-basic-python)
