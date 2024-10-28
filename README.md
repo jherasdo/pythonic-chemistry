@@ -40,9 +40,9 @@ If you ise this codebase in your work, please consider citing:
 @article{pythonic_chemistry,
     title = {Pythonic Chemistry: The Beginner's Guide to Digital Chemistry},
     author = {Javier Heras-Domingo and Diego Garay-Ruiz},
-    journal = {},
+    journal = {Journal of Chemical Education},
     year = {2024},
-    doi = {},
+    doi = {https://doi.org/10.1021/acs.jchemed.4c00840},
 }
 ```
 
